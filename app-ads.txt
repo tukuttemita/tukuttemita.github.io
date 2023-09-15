@@ -3,4 +3,5 @@ pangleglobal.com, 5013522, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 openx.com, 559759281, DIRECT, 6a698e2ec38604c6 
 openx.com, 559759281, RESELLER, 6a698e2ec38604c6
+adingo.jp, 30444, RESELLER
 
